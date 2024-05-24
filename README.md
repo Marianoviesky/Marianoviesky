@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and Laravel
 - 💞️ I’m looking to collaborate on interesting project
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me marianoviesky@gmail.com
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
